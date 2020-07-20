@@ -1,0 +1,131 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.aaru
+{
+    text-align: center;
+	background-color: blueviolet;
+	color: white;
+	padding:10px;
+	width: auto;	
+	font-family: arial,sans-serif;
+    font-size: 15px;
+    height: 30px;	
+}
+
+#login
+{
+	color: white;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	border: 2px white solid;
+	padding: 4px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+#login:hover
+{
+	background-color: black;
+    color: white;
+    border: 2px black solid;
+}
+
+#main {
+    margin-left: 20px;
+    margin-right: 20px;  
+}
+
+#outer {
+   border: 1px solid grey;
+   padding: 8px;
+   border-radius: 8px;
+}
+
+textarea {
+    width: 96%;
+    height: 115px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+    padding-left: 10px;
+    padding-top: 10px;
+    resize: none;
+}
+
+textarea:focus {
+    border: 3px solid cyan;
+    box-shadow: 2px 2px 2px 4px cyan;
+}
+
+#jai{
+   	background-color: white;
+    color: blue;
+    text-decoration: none;	
+}
+
+#jai:hover {
+    text-decoration: underline;
+}
+
+input[type=submit] {
+    width: 99%;
+    height: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+    border-radius: 5px;
+    background-color:  blueviolet;
+}
+
+input[type=submit]:hover {
+    color: black;
+    background-color:violet;
+}
+
+footer
+{
+	background-color: blue;
+	color: white;
+	padding: 15px;
+	width: auto;
+	text-align: center;
+
+}
+
+.gujjar2
+{
+	background-color: blueviolet;
+	padding: 40px;
+    text-decoration: none;
+    text-align: center;
+    width: auto;
+    text-align: center;	
+    
+}
+#ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /* background-color: #333;} */
+}
+
+#ul li {
+    float: left;
+}
+  
+#ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#ul li a:hover {
+    text-decoration: underline;
+}

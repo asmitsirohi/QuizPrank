@@ -1,0 +1,242 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+#intro {
+    background-color: rgb(122, 37, 161);
+    text-align: center;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    width: auto;
+    height: 50px;
+}
+.aaru
+{
+    text-align: center;
+	background-color: blueviolet;
+	color: white;
+	padding:10px;
+	width: auto;	
+	font-family: arial,sans-serif;
+    font-size: 15px;
+    height: 30px;	
+}
+#logout
+{
+	color: white;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	border: 2px white solid;
+	padding: 4px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+#logout:hover
+{
+	background-color: black;
+    color: white;
+    border: 2px black solid;
+}
+#image {
+    background-color: white;
+    width: 90px;
+    border-radius: 50%;
+    /* text-align: center; */
+}
+
+#main {
+     margin-left: 20px;
+     margin-right: 20px;  
+}
+
+#outer {
+    border: 1px solid grey;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+#user {
+    text-align: center;
+    border: 1px dashed black;
+    background-color: cyan;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    border-radius: 8px;
+}
+
+#content {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+input[type=text] {
+    width: 98%;
+    height: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    border-radius: 5px;
+    border: 3px solid blueviolet;
+    padding-left: 10px;
+}
+
+input[type=text]:focus {
+    border: 3px solid cyan;
+    box-shadow: 2px 2px 2px 4px cyan;
+}
+
+button {
+    width: 99%;
+    height: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    cursor: pointer;
+    font-weight: bold;
+    color: white;
+}
+
+button:hover {
+    color: black;
+}
+
+#copy {
+    background-color: grey;
+}
+
+#whatsapp {
+    background-color: rgb(66, 255, 66);
+}
+
+#twitter {
+    background-color: dodgerblue;    
+}
+
+#imp {
+    background-color: red;
+    font-size: 12px;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+}
+#new {
+    background-color: lime;
+    font-size: 12px;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+#anonymous {
+    text-align: center;
+	background-color: blueviolet;
+	color: white;
+	width: auto;	
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    height: 35px;
+    font-weight: bold;
+    font-size: 18px;	
+    border-radius: 5px;
+    padding-top: 12px;
+}
+
+#msg {
+    text-align: center;
+    border: 4px solid blueviolet;
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    border-radius: 8px;
+    height: 100px;
+    margin: auto;
+    padding-top: 50px;
+}
+
+#delete {
+    color: white;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	border: 2px black solid;
+	padding: 4px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: black;
+
+}
+
+#delete:hover {
+    background-color: white;
+    color: black;
+}
+
+footer
+{
+	background-color: blue;
+	color: white;
+	padding: 15px;
+	width: auto;
+	text-align: center;
+
+}
+
+.gujjar2
+{
+	background-color: blueviolet;
+	padding: 40px;
+    text-decoration: none;
+    text-align: center;
+    width: auto;
+    text-align: center;	
+    
+}
+#ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /* background-color: #333;} */
+}
+
+#ul li {
+    float: left;
+}
+  
+#ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#ul li a:hover {
+    text-decoration: underline;
+}
+
+#refresh {
+    position: fixed;
+    bottom: 20px;
+    right: 10px;
+    width: auto;
+    /* color: white;
+    background-color: blue; */
+}
+
+#ref {
+    width: auto;
+    height: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: normal;
+    color: white;
+    background-color: blue;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+#ref:hover {
+    background-color: black; 
+    color: white;
+}

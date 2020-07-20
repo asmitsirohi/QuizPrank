@@ -1,0 +1,65 @@
+.aryan
+{
+	background-color: blueviolet;
+	color: white;
+	padding:10px;
+	width: 100%;	
+	font-family: arial,sans-serif;
+	font-size: 15px;	
+	text-align: center;
+}
+.aaru
+{
+	font-family: arial;
+}
+.gujjar
+{
+	border: 1px grey solid;
+	padding: 10px;
+	border-radius: 5px;
+}
+.gujjar2
+{
+	background-color: blueviolet;
+	padding: 40px;
+    text-decoration: none;
+    text-align: center;
+    width: 100%;	
+}
+#a{
+	color: white;
+	border: none;
+}
+#b
+{
+	color: white;
+	border: none;
+}
+#c
+{
+	color: white;
+	border: none;
+}
+#d
+{
+	color: white;
+	border: none;
+}
+#e
+{
+	color: white;
+	border:none;
+}
+a:link
+{
+	text-decoration: none;
+}
+footer
+{
+	background-color: blue;
+	color: white;
+	padding: 15px;
+	width: 100%;
+	text-align: center;
+
+}
